@@ -1,0 +1,112 @@
+internal js    <script>......</script>
+external js     file.js <script src="....."></script>
+
+
+
+document.write("");
+
+Data types
+
+boolean true false  1 0 
+
+
+typeOf() ----- check data type
+
+
+
+object    ----->  {}
+function  ----->  () 
+array    ------>  []
+
+
+
+
+
+var  variableName 
+var  studeName = ""; 
+
+
+
+Concatenate  (+)
+
+
+
+Variables 
+1- var    redeclare , Assign
+2- let    Assign 
+3- const
+
+
+
+Operators 
+1- Arithmetic Operators (+,-,*,/)
+2- Assignment Operators (+= ,-= ,*= ,/= , ++ (+1) ,--(-1)))
+3- Comparison Operators (<,> , <= ,>= ,== ,===)  equal to 
+4- Logical Operators (&& , || , != , !==)
+And &&   logic 1 && logic && logic 3
+OR  ||
+Not !
+
+
+=== ( equal value and equal data type)
+
+alert()  ----> notification 
+prompt() ----> get user data
+confirm() ---> 
+
+parseInt (1212132211) / parseFloat(12.1212) ---> parse integer  (convert string into integer)
+
+
+Condition 
+2 
+> 0 
+
+This is positive 
+
+< 0 
+Negative 
+0 
+
+
+condition:
+if
+else 
+else if 
+
+if(){
+
+}
+else{
+
+}
+
+shorthand if    = condition  ? "true": "false"   (ternary Operator)
+switch case ----- left
+
+
+TRUE 
+FALSE 
+if(){
+}
+ELSE{
+
+}
+
+
+
+LOOPS
+-------
+for 
+Syntax of loop
+1  loop intialize   start
+2  condition        stop
+3  icre++ / drec--
+
+for(intialize ; condition ; icre++ / decre--){
+    // result
+}
+
+
+
+
+%
