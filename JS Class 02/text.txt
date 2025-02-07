@@ -107,6 +107,64 @@ for(intialize ; condition ; icre++ / decre--){
 }
 
 
+[1,2,3,4]
+
+1  for 
+2 while 
+3 do while 
+4 forEach   array
+5  for In   array 
+6  for of   array / object 
 
 
-%
+
+intialize = ? 
+while(condition){
+
+//result 
+i++ , i--
+
+}
+
+
+intialize
+
+do{
+   //result 
+   i-- , ++
+}
+while(condition)
+
+
+nested loop / nested if 
+
+
+if(condition){
+     if(){
+        //result
+     }
+}
+
+
+for(let i = 1 ; i<=5 ; i++){
+    for(let j = 1 ;  j<=5 ; j++){
+
+    }
+}
+
+1 - 1 2 3 4 5
+2 - 1
+
+
+bakery
+
+Name 
+category 
+sweet , fastfood , drinks 
+sweet --> cake , brownie ....
+fastfood --> zinger , pizza , roll
+drink ---> slice , cola next ...
+
+
+
+1 to 10 

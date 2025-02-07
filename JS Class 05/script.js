@@ -1,5 +1,6 @@
 document.write("<h1>JS Loops</h1>")
 
+
 for(let i = 1; i <=10 ; i++){
     //result
     document.write(i+" Aptech Learning <br>")
