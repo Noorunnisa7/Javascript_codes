@@ -1,8 +1,8 @@
 document.write("<h1>Nested LOOP</h1>")
 
-for(let i = 1; i <=10 ; i++){   // outer loop
+for(let i = 1; i <=5 ; i++){   // outer loop
     document.write(i +"<br>")
-    for(let j = 1 ; j <= 10 ; j++){   // inner loop
+    for(let j = 1 ; j <= 5 ; j++){   // inner loop
         document.write(j+"&nbsp")
     }
     document.write("<br>")
